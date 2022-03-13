@@ -1,10 +1,10 @@
 <h1 align='center'> 404 Not Found</h2>
 
 <div align='center'>
-   <img src="https://i.ibb.co/QMsyZpt/underconstruction.gif" alt="underconstruction" border="0">
     <h1>
         This Page is Under Construction<br>
-        It's not available for now, I hope I'll make it live soon.
+        It's not available for now<br>
+        I hope I'll make it live soon
     </h1>
 </div>
 
